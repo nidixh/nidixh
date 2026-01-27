@@ -68,26 +68,6 @@ I enjoy building **end-to-end systems** — from databases and APIs to intellige
 
 ---
 
-## 🐍 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nidixh/nidixh-snake/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-  username=nidixh&
-  show_icons=true&
-  hide_title=true&
-  theme=tokyonight" />
-</p>
-
----
-
 ## 🔍 Currently Exploring
 - Evolutionary algorithms in physics-based simulations  
 - Backend scalability & database performance  
