@@ -103,19 +103,19 @@
 * **Predictive Modeling:** Expert in building end-to-end regression and classification pipelines (Linear Regression, Random Forest, XGBoost).
 * **Deep Learning Architectures:** Proficient in designing sequential Deep Neural Networks (DNN) with Keras/TensorFlow, optimizing for specific metrics like **Recall** and **AUC**.
 * **Imbalanced Data Strategy:** Experienced in handling severe class imbalances (e.g., 78:22) using techniques like **Class Weights** and **SMOTE**.
-* [cite_start]**Evolutionary Algorithms:** Capable of implementing Genetic Algorithms and custom fitness functions for physics-based simulations[cite: 44, 45, 46].
-* [cite_start]**NLP Pipelines:** Skilled in text preprocessing, tokenization, one-hot encoding, and embedding layers for biomedical text classification[cite: 35, 36, 39].
+* **Evolutionary Algorithms:** Capable of implementing Genetic Algorithms and custom fitness functions for physics-based simulations.
+* **NLP Pipelines:** Skilled in text preprocessing, tokenization, one-hot encoding, and embedding layers for biomedical text classification.
 
 ### 💻 Full Stack & Backend Systems
-* [cite_start]**API Development:** Strong background in building RESTful APIs using **Node.js** and **Express**, featuring modular routing and controller architecture[cite: 6, 9].
-* [cite_start]**Database Architecture:** Expert in designing **3NF Normalized Schemas** for complex relational data, optimizing JOINs, and ensuring data consistency[cite: 40, 41, 42].
-* [cite_start]**Security Implementation:** Hands-on experience with **bcrypt** for hashing, session management, and role-based access control (RBAC)[cite: 8].
-* [cite_start]**Mobile Engineering:** Proficient in **Flutter (Dart)** for cross-platform apps, integrating local persistence (SQLite) and hardware features (Camera)[cite: 30, 31, 32].
+* **API Development:** Strong background in building RESTful APIs using **Node.js** and **Express**, featuring modular routing and controller architecture.
+* **Database Architecture:** Expert in designing **3NF Normalized Schemas** for complex relational data, optimizing JOINs, and ensuring data consistency.
+* **Security Implementation:** Hands-on experience with **bcrypt** for hashing, session management, and role-based access control (RBAC).
+* **Mobile Engineering:** Proficient in **Flutter (Dart)** for cross-platform apps, integrating local persistence (SQLite) and hardware features (Camera).
 
 ### 📊 Data Science & Analytics
-* [cite_start]**Statistical Rigor:** Committed to validation excellence using **5-Fold Cross-Validation** and hypothesis testing to ensure model robustness[cite: 51, 63].
-* [cite_start]**Feature Engineering:** Ability to create physics-informed interaction terms and perform dimensionality reduction (PCA) to improve model performance[cite: 51, 63].
-* [cite_start]**Operational Insight:** Focus on translating technical metrics (RMSE, F1-Score) into actionable business insights and financial impact assessments[cite: 64].
+* **Statistical Rigor:** Committed to validation excellence using **5-Fold Cross-Validation** and hypothesis testing to ensure model robustness.
+* **Feature Engineering:** Ability to create physics-informed interaction terms and perform dimensionality reduction (PCA) to improve model performance.
+* **Operational Insight:** Focus on translating technical metrics (RMSE, F1-Score) into actionable business insights and financial impact assessments.
 
 ---
 
