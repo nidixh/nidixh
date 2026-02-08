@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nidish+Kumar+(NIDIXH);Building+Scalable+Backend+Systems;Engineering+Intelligent+ML+Pipelines;Optimizing+Data-Driven+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nidish+Kumar+(NIDIXH);Building+Scalable+Backend+Systems;Engineering+Financial+Risk+%26+ML+Pipelines;Optimizing+Data-Driven+Decisions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,10 +13,10 @@
   
   <br />
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jdnidish16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/nidish-kumar-36970333a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/NIDIXH">
@@ -57,13 +57,13 @@
         <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br><b>TensorFlow</b>
       </td>
       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br><b>PyTorch</b>
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br><b>AWS</b>
       </td>
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" width="48" /><br><b>Scikit-Learn</b>
       </td>
       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br><b>React</b>
+        <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" /><br><b>Pandas</b>
       </td>
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br><b>Node.js</b>
@@ -89,7 +89,7 @@
         <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br><b>VS Code</b>
       </td>
       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br><b>Figma</b>
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br><b>Express</b>
       </td>
     </tr>
   </table>
@@ -100,22 +100,22 @@
 ## ⚡ What I Bring to the Table
 
 ### 🧠 Machine Learning & AI Engineering
-* **Predictive Modeling:** Expert in building end-to-end regression and classification pipelines (Linear Regression, Random Forest, XGBoost).
+* **Predictive Modeling:** Expert in building end-to-end regression and classification pipelines (**Linear Regression**, **Deep Learning**).
 * **Deep Learning Architectures:** Proficient in designing sequential Deep Neural Networks (DNN) with Keras/TensorFlow, optimizing for specific metrics like **Recall** and **AUC**.
-* **Imbalanced Data Strategy:** Experienced in handling severe class imbalances (e.g., 78:22) using techniques like **Class Weights** and **SMOTE**.
-* **Evolutionary Algorithms:** Capable of implementing Genetic Algorithms and custom fitness functions for physics-based simulations.
+* **Imbalanced Data Strategy:** Experienced in handling severe class imbalances (e.g., 78:22) using techniques like **Class Weights** and Stratified Splitting.
+* **Automated Optimization:** Skilled in using **Keras Tuner** to automate hyperparameter selection and architecture search.
 * **NLP Pipelines:** Skilled in text preprocessing, tokenization, one-hot encoding, and embedding layers for biomedical text classification.
 
 ### 💻 Full Stack & Backend Systems
 * **API Development:** Strong background in building RESTful APIs using **Node.js** and **Express**, featuring modular routing and controller architecture.
 * **Database Architecture:** Expert in designing **3NF Normalized Schemas** for complex relational data, optimizing JOINs, and ensuring data consistency.
-* **Security Implementation:** Hands-on experience with **bcrypt** for hashing, session management, and role-based access control (RBAC).
-* **Mobile Engineering:** Proficient in **Flutter (Dart)** for cross-platform apps, integrating local persistence (SQLite) and hardware features (Camera).
+* **Cloud Infrastructure:** Certified in **AWS Cloud Foundations**, capable of deploying and managing scalable cloud resources.
+* **Mobile Engineering:** Proficient in **Flutter (Dart)** for cross-platform apps, integrating local persistence (SQLite) and hardware features.
 
 ### 📊 Data Science & Analytics
 * **Statistical Rigor:** Committed to validation excellence using **5-Fold Cross-Validation** and hypothesis testing to ensure model robustness.
 * **Feature Engineering:** Ability to create physics-informed interaction terms and perform dimensionality reduction (PCA) to improve model performance.
-* **Operational Insight:** Focus on translating technical metrics (RMSE, F1-Score) into actionable business insights and financial impact assessments.
+* **Operational Insight:** Focus on translating technical metrics (AUC, F1-Score) into actionable business insights and financial impact assessments.
 
 ---
 
